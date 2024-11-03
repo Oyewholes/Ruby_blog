@@ -1,0 +1,18 @@
+current directory: /Users/oyediranoyewole/Desktop/blog/blog_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/oyediranoyewole/Desktop/blog/blog_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241102-92662-giwplv sitelibdir\=./.gem.20241102-92662-giwplv clean
+
+current directory: /Users/oyediranoyewole/Desktop/blog/blog_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241102-92662-giwplv sitelibdir\=./.gem.20241102-92662-giwplv
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/oyediranoyewole/Desktop/blog/blog_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241102-92662-giwplv sitelibdir\=./.gem.20241102-92662-giwplv install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20241102-92662-giwplv/racc
+
+current directory: /Users/oyediranoyewole/Desktop/blog/blog_app/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241102-92662-giwplv sitelibdir\=./.gem.20241102-92662-giwplv clean

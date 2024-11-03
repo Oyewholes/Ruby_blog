@@ -1,0 +1,18 @@
+current directory: /Users/oyediranoyewole/Desktop/blog/blog_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/oyediranoyewole/Desktop/blog/blog_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241102-92662-uhdr6k sitelibdir\=./.gem.20241102-92662-uhdr6k clean
+
+current directory: /Users/oyediranoyewole/Desktop/blog/blog_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241102-92662-uhdr6k sitelibdir\=./.gem.20241102-92662-uhdr6k
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/oyediranoyewole/Desktop/blog/blog_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241102-92662-uhdr6k sitelibdir\=./.gem.20241102-92662-uhdr6k install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20241102-92662-uhdr6k/skiptrace/internal
+
+current directory: /Users/oyediranoyewole/Desktop/blog/blog_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241102-92662-uhdr6k sitelibdir\=./.gem.20241102-92662-uhdr6k clean
